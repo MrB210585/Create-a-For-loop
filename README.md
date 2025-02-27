@@ -1,4 +1,4 @@
-# Create-a-For-loop
+# Create-a-For-loop/ Python
 This code (Screenshot) simulates a network connection attempt that fails three times. It uses a loop to repeat the "Connection could not be established" message the specified number of times.
 ![417033348-3ee502e2-6664-4a19-9c6e-1b101a0c3bbe](https://github.com/user-attachments/assets/edb49bd1-ad35-4f2b-ba23-d3ade715a8d8)
 
